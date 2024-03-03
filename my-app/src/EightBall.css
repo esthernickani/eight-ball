@@ -1,0 +1,22 @@
+.EightBall {
+    padding: 3rem;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+
+.EightBall:hover {
+    cursor: pointer;
+}
+
+.EightBall-message {
+    color: #FFFFFF;
+    width: 12rem;
+    height: 12rem;
+    padding: 3rem;
+    margin: 3rem;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
